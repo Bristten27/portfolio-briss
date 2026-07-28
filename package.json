@@ -1,0 +1,32 @@
+{
+  "name": "portfolio-briss",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "class-variance-authority": "^0.6.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.0.0",
+    "lucide-react": "^0.420.0",
+    "next": "^16.2.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^1.14.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "@types/react": "^19.0.60",
+    "@types/react-dom": "^19.0.24",
+    "autoprefixer": "^10.4.19",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "^16.2.0",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.4",
+    "typescript": "^5.6.2"
+  }
+}
